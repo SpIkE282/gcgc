@@ -1,0 +1,1 @@
+jQueri("bode").appadet('<a href="http://google.com">перейти</a>')

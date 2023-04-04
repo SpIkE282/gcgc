@@ -1,0 +1,115 @@
+html {
+	background-color: lightgray;
+	font-family: Arial;
+}
+body {
+	width: 900px;
+	margin: 0 auto;
+	background-color: white;
+	background-repeat: no-repeat;
+	height: 900px;
+}
+h1{
+	text-align:center;
+	font-size: 30px;
+	text-shadow: rgba(0, 0, 0, .6) 2px 2px 2px;}
+#da{
+	background-color: rgba(255, 255, 255, .8);
+    height: 40px;
+    box-shadow: rgba(0, 0, 0, .8) 0 1px 0;
+}
+
+h1:hover {
+	color: red;
+}
+p {
+    font-family: "Comic Sans MS";
+    font-size: 25px;
+    font-style: italic;
+}
+#da2 {
+	background-image: url(img/iron.png);
+	margin:50px 0 0 0;
+	height:500px ;
+	background-repeat: no-repeat;
+	width: 200px;
+}
+
+#ne  {
+	color: black;
+}	
+
+
+h3 {
+  height: 10px;
+  
+}
+#da3 {
+	background-image: url(img/myhu.png);
+	margin:-220px 0 0 0;
+	height:300px ;
+	background-repeat: no-repeat;
+	width: 300px;
+}
+
+#da4 {
+	background-image: url(img/sword.png);
+	margin:-320px 0 0 350px;
+	height:300px ;
+	background-repeat: no-repeat;
+	width: 300px;
+}
+
+#ne3 {
+	color: white;
+	font-size: 16px;
+}
+
+#da4 {
+	background-image: url(img/sword.png);
+	margin:-316px 0 0 350px;
+	height:300px ;
+	background-repeat: no-repeat;
+	width: 300px;
+}
+
+#da5 {
+	background-image: url(img/blue.png);
+	margin:-617px 0 0 350px;
+	height:300px ;
+	background-repeat: no-repeat;
+	width: 300px;
+}
+
+#ne4 {
+	color: blue;
+}
+
+#ne4:hover  {
+	color: black;
+}
+
+#da6 {
+	background-image: url(img/spirit.png);
+	margin:-314px 0 0 724px;
+	height:300px ;
+	background-repeat: no-repeat;
+	width: 300px;
+}
+
+#ne5 {
+	color: white;
+	font-size: 14px;
+}
+
+#da7 {
+	background-image: url(img/blich.png);
+	margin:-14px 0 0 724px;
+	height:300px ;
+	background-repeat: no-repeat;
+	width: 300px;
+}
+
+#ne6 {
+	color: white;
+}
